@@ -2,6 +2,8 @@
 
 Viewer for deaman logs
 
+![example_screenshot](https://github.com/enukane/deadman-webui/blob/main/assets/example_screenshot.png?raw=true)
+
 ## Installation
 
 1. Clone or download the repository
